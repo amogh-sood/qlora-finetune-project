@@ -6,3 +6,11 @@ scikit-learn
 nltk
 bitsandbytes
 accelerate
+matplotlib
+seaborn
+dotenv
+peft
+datasets
+tiktoken
+protobuf
+trl

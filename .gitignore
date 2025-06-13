@@ -9,4 +9,6 @@ venv/
 .env
 
 models/
+google-gemma3-1b-QLoRA/
+lora-defects-output/
 
